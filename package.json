@@ -7,7 +7,7 @@
     "d3": "4.13",
     "fireworks-react": "^1.0.12",
     "import": "^0.0.6",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-router": "^5.1.2",
